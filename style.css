@@ -1,0 +1,9 @@
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+#myCanvas {
+  border: 10px solid #CCC;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
